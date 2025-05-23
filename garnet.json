@@ -1,0 +1,22 @@
+{
+  "codename": "garnet",
+  "version": "15",
+  "calyx_version": "6.7.23",
+  "build_number": "25607220",
+  "security_patch": "2025-05-05",
+  "release_date": "2025-05-23T23:07:12Z",
+  "build_date": "2025-05-23T23:07:12Z",
+  "files": [
+    {
+      "type": "ota",
+      "filename": "garnet-ota_update-garnet.20250524.zip",
+      "url": "https://sourceforge.net/projects/calyxos-garnet/files/garnet-ota_update-garnet.20250524.zip/download",
+      "size": 2226704063,
+      "sha256": "1f11255ebe5a481202d5cb36b6e70896c63b758243903279c4a2841aaa5eb837"
+    }
+  ],
+  "changelog": [
+    "Android 15 Security Patch 2025-05-05",
+    "CalyxOS 6.7.23"
+  ]
+}
